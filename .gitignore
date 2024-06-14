@@ -1,0 +1,17 @@
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.DS_Store
+
+archive/
+
+calibration/archive/
+calibration/cached_datasets/
+calibration/processed_data/
+calibration/SIGIR2024-cond-exp-new/
+calibration/SIGIR2024-pred-exp-new/
+calibration/slurm_scripts/
+calibration/tmp.pkl
+
+documents/
+
+pygaggle/calibration-exp/

@@ -1,0 +1,5 @@
+Files for generating NLEs with local LLAMA2 are in `pygaggle`.
+
+Files for calibration ranking and QPP are in `calibration`.
+
+Processed data and step-by-step instructions will be updated when the work is fully public!
